@@ -1,0 +1,27 @@
+{
+  "name": "zowe-common",
+  "version": "1.0.0",
+  "description": "A project containing common utilities code for zowe actions",
+  "main": "",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zowe-actions/zowe-common.git"
+  },
+  "author": "IBM",
+  "license": "EPL-2.0",
+  "bugs": {
+    "url": "https://github.com/zowe-actions/zowe-common/issues"
+  },
+  "homepage": "https://github.com/zowe-actions/zowe-common#readme",
+  "dependencies": {
+    "debug": "^4.3.2",
+    "semver": "^7.3.5"
+  }
+}

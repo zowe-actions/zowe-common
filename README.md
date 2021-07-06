@@ -1,2 +1,2 @@
 # zowe-common
-Includes common utilities code
+A project containing common utilities code for zowe actions
