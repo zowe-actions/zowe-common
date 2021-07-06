@@ -2,7 +2,7 @@
   "name": "zowe-common",
   "version": "1.0.0",
   "description": "A project containing common utilities code for zowe actions",
-  "main": "",
+  "main": "index.js",
   "type": "module",
   "directories": {
     "lib": "lib"
