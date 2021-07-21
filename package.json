@@ -1,6 +1,6 @@
 {
   "name": "zowe-common",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A project containing common utilities code for zowe actions",
   "main": "index.js",
   "directories": {
