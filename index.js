@@ -1,6 +1,4 @@
-const utils = require('./lib/utils.js')
-const InvalidArgumentException = require('./lib/invalid-argument-exception.js')
-const pax = require('./lib/pax.js')
-module.exports.utils = utils
-module.exports.InvalidArgumentException = InvalidArgumentException
-module.exports.pax = pax
+module.exports.utils = require('./lib/utils.js')
+module.exports.InvalidArgumentException = require('./lib/invalid-argument-exception.js')
+module.exports.pax = require('./lib/pax.js')
+module.exports.github = require('./lib/github.js')
