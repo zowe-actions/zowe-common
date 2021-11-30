@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/zowe-actions/zowe-common#readme",
   "dependencies": {
-    "debug": "^4.3.2",
-    "semver": "^7.3.5"
+    "debug": "4.3.2",
+    "semver": "7.3.5"
   }
 }
