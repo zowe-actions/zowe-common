@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "dependencies": {
     "debug": "4.3.2",
     "semver": "7.3.5"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
